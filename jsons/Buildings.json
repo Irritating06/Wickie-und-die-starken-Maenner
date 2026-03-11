@@ -6,6 +6,6 @@
 		"happiness": 1,
 		"science": 1,
 		"hurryCostModifier": 25,
-		"requiredTech": "Trapping"
+		"requiredTech": "Trapping" 
 	},
 ]
