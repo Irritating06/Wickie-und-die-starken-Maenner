@@ -43,6 +43,6 @@
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Great Generals II"],
 		"uniques": ["[+33]% Strength <vs [Wounded] units>", "No movement cost to pillage"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit" 
 	},
 ]
