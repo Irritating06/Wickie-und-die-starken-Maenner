@@ -17,7 +17,7 @@
 	{
 		"name": "Drei Schiff Flotte",
 		"unitType": "Melee Water",
-		"uniqueTo": "",
+		"uniqueTo": "Sven und seine Männer",
 		"replaces": "Trireme",
 		"movement": 4,
 		"strength": 15,
@@ -29,4 +29,20 @@
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 	}
+	{
+		"name": "Plünderer",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Sven und seine Männer",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Shock I", "Great Generals II"],
+		"uniques": ["[+33]% Strength <vs [Wounded] units>", "No movement cost to pillage"],
+		"attackSound": "metalhit"
+	},
 ]
