@@ -65,6 +65,6 @@
 		"innerColor": [161,161,161],
 		"uniqueName": "Schrecken der Meere",
 		"uniques": ["Free [Great Admiral] appears <upon discovering [Sailing] technology>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "Earn [100]% of killed [Barbarian] unit's [Strenght] as [Gold]", "\"Borrows\" city names from other civilizations in the game", "Cities are razed [3] times as fast"],
-		"cities": ["Halvas Festung"]
+		"cities": ["Halvas Festung"] 
 	}
 ]
