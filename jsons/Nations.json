@@ -4,7 +4,7 @@
 		"leaderName": "Halvar",
 		"adjective": ["Wickinger von Flake"],
 		"startBias": ["coast"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Scientific", 
 		
 		"startIntroPart1": "Hallo Halvar von Flake!",
 		"startIntroPart2": "Wir sind Gefürchtete Wickinger bereit zu plündern und wunderbare Sachen heim zu bringen!.",
