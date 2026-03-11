@@ -1,17 +1,32 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Wickinger Schiff",
+		"unitType": "Melee Water",
+		"uniqueTo": "Wickinger von Flake",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Supply"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	}
+	{
+		"name": "Drei Schiff Flotte",
+		"unitType": "Melee Water",
+		"uniqueTo": "",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 15,
+		"cost": 55,
+		"requiredTech": "Sailing",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Coastal Raider I"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
 	}
 ]
