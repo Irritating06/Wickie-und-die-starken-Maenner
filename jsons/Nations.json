@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Wikinger von Flake",
+		"name": "Wickinger von Flake",
 		"leaderName": "Halvar",
-		"adjective": ["Wikinger von Flake"],
+		"adjective": ["Wickinger von Flake"],
 		"startBias": ["coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Hallo Halvar von Flake!",
-		"startIntroPart2": "Wir sind Gefürchtete Wikinger bereit zu plündern und wunderbare Sachen heim zu bringen!.",
+		"startIntroPart2": "Wir sind Gefürchtete Wickinger bereit zu plündern und wunderbare Sachen heim zu bringen!.",
 		
 		"declaringWar": "Männer es ist Zeit diesen Leuten zu nehmen was uns gehört!",
 		"attacked": "Ihr wagt es mit Halvar von Flake die Klinge zu kreutzen!",
