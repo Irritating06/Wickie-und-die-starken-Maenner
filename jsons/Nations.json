@@ -1,38 +1,70 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Wikinger von Flake",
+		"leaderName": "Halvar",
+		"adjective": ["Wikinger von Flake"],
+		"startBias": ["coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Hallo Halvar von Flake!",
+		"startIntroPart2": "Wir sind Gefürchtete Wikinger bereit zu plündern und wunderbare Sachen heim zu bringen!.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Männer es ist Zeit diesen Leuten zu nehmen was uns gehört!",
+		"attacked": "Ihr wagt es mit Halvar von Flake die Klinge zu kreutzen!",
+		"defeated": "Nur noch Wickie kann uns aus diesem Schlamassel befreien...",
+		"introduction": "Hmm eurer Größe nach zu beurteilen wäre es wohl besser zu verhandeln statt zu plündern.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Nanu wer spricht denn da?",
+		"neutralLetsHearIt": ["Lass mal hören.","Was gibt es?"],
+		"neutralNo": ["Haltet ihr mich für dämlich?","Nein!","Das muss ich wohl ablehnen"],
+		"neutralYes": ["Wie das glänzt.","Ohoho wie schön.","Na das hört sich doch gut an."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Was wollt ihr!",
+		"hateLetsHearIt": ["Rede, ich habe nicht den ganzen Tag Zeit!"],
+		"hateNo": ["Ihr wollt mich doch verspotten!","Da währe es ja einfacher es einfach zu stehlen...","Was glaubst du wen du hier vor dir hast!"],
+		"hateYes": ["Wickie was sagst du dazu?","Meine Frau würde mir das nicht verzeihen das abzulehnen...","Hm nun gut. Hoffentlich haut ihr mich nicht übers Ohr!"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Wir verschwinden dann mal.",
+		"tradeRequest": "Na, was sagt ihr dazu? Hehe",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,245,245],
+		"innerColor": [235,42,42],
+		"uniqueName": "Ich hab´s!",
+		"uniques": ["Free [Great Admiral] appears <upon discovering [Sailing] technology>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "Earn [100]% of killed [Barbarian] unit's [Strength] as [Science]", "\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Flake"]
+	}
+	{
+		"name": "Sven und seine Männer",
+		"leaderName": "Der schreckliche Sven",
+		"adjective": ["Sven´s Mannschaft"],
+		"startBias": ["coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Oh schrecklicher Sven!",
+		"startIntroPart2": "Zeige warum man dich auf allen Meeren fürchten sollte!",
+		
+		"declaringWar": "Zeit euch zum Kentern zu bringen!",
+		"attacked": "Ihr nehmt wohl gerne den mund zu voll, was?",
+		"defeated": "Verdammt seid ihr!",
+		"introduction": "Guten Morgen, ihr scheint nun in unseren Gewässern zu segeln!",
+		
+		"neutralHello": "Hm, wer soll denn das sein?",
+		"neutralLetsHearIt": ["Was wollt ihr?"],
+		"neutralNo": ["Ihr macht wohl Witze!","Nein!","Ich glaube ihr vergesst wen ihr hier vor euch habt!"],
+		"neutralYes": ["Ein so herrliches Angebot kann ich schlecht ablehnen.","Hahaha wir sehen es als Geschenk!","Ihr versteht etwas vom Handel."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["Rede...","Gebe mir einen guten grund dich gehen zu lassen."],
+		"hateNo": ["Bekommen werden wir es trotzdem","Hahaha soll das eine Kriegserklärung sein?","Was glaubst du wen du hier vor dir hast!"],
+		"hateYes": ["Nun gut...","Ja. Glaube aber nicht, dass dies genügt!"],
+		
+		"afterPeace": "Wir bekommen schon noch unsere Revanche",
+		"tradeRequest": "Einmaliges Angebot!",
+
+		"outerColor": [38,38,38],
+		"innerColor": [161,161,161],
+		"uniqueName": "Schrecken der Meere",
+		"uniques": ["Free [Great Admiral] appears <upon discovering [Sailing] technology>", "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>", "Earn [100]% of killed [Barbarian] unit's [Strenght] as [Gold]", "\"Borrows\" city names from other civilizations in the game", "Cities are razed [3] times as fast"],
+		"cities": ["Halvas Festung"]
 	}
 ]
